@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Griffin Swank's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi I'm Griffin, a freshman of Purdue University. I am studying computer science, as I have always been interested in the functioning of computers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am beyond excited to be here on campus, and have been loving it, even with everything going on in thw world today. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I appreciate the commitment to teaching at Purdue University, and the CS193 staff for helping us through challenging parts of our studies!
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Welcome take a seat and let me tell you about some things I admire in CS193.
+## I know... Boring Right?
+### It will get better, stick with me.
 
-- Bulleted
-- List
+- The group of CS193 professors is a group of young people trying to help us newbies through our programming lives.
+- They have been through what we will be through in the upcoming years, so they have learned and can help us to succeed where maybe they could have struggled.
 
-1. Numbered
-2. List
+1. Programming isn't always easy, sometimes it can be challenging and frustrating, that is why I admire what this group does for us as new students of the best college in the nation!
+2. Boiler Up! Hammer Down!
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
